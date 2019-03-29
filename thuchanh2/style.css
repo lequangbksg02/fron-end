@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+}
+#logo{
+    background: azure;
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+#banner{
+    background: azure;
+    height: 100%;
+    width: 80%;
+    float: left;
+}
+.header{
+    width: 100%;
+    height: 300px;
+}
+.head{
+    height: 200px;
+    width: 100%;
+}
+.nav{
+    background: azure;
+    height: 100px;
+    width: 100%;
+    padding: 30px;
+}
+.nav a {
+    margin: 30px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.sidebar{
+    height: 500px;
+    width: 10%;
+    float: left;
+}
+
+#bar1{
+    background: azure;
+    height: 40%;
+    width: 100%;
+}
+#bar2{
+    background:azure;
+    height: 60%;
+    width: 100%;
+}
+#content{
+    height: 600px;
+    width: 70%;
+    float: left;
+}
+#content1{
+    background:azure;
+    height: 35%;
+    width: 100%;
+}
+#Hotnews{
+    background: azure;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+#PhotoSlide{
+    background: azure;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+#content2{
+    background: azure;
+    height: 35%;
+    width: 100%;
+}
+#New1{
+    background: azure;
+    height: 100%;
+    width: 30%;
+    float: left;
+}    
+#New2{
+    background: azure;
+    height: 100%;
+    width: 40%;
+    float: left;
+}    
+#New3{
+    background: azure;
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+#content3{
+    background: azure;
+    height: 30%;
+    width: 100%;
+}
+#New4{
+    background: azure;
+    height: 100%;
+    width: 30%;
+    float: left;
+}    
+#New5{
+    background: azure;
+    height: 100%;
+    width: 40%;
+    float: left;
+}    
+#New6{
+    background: azure;
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+
+#rightbar{
+    background: azure;
+    height: 700px;
+    width: 20%;
+    float: left;
+}
+#lich{
+    background: azure;
+    height: 35%;
+    width: 100%;
+}
+#bieudo{
+    background: azure;
+    height: 30%;
+    width: 100%;
+}
+#map{
+    background: azure;
+    height: 35%;
+    width: 100%;
+}
+
+#footer{
+    background: azure;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+
+.hinh{
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px;
+}
